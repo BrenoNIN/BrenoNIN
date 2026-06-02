@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="center">
 
@@ -103,17 +103,17 @@
 
 ## Objetivos Profissionais
 
-✅ QA Júnior
++ QA Júnior
 
-✅ Estágio em Qualidade de Software
++ Estágio em Qualidade de Software
 
-✅ Desenvolvimento Back-end Java
++ Desenvolvimento Back-end Java
 
-✅ Automação de Testes
++ Automação de Testes
 
-✅ Desenvolvimento de APIs REST
++ Desenvolvimento de APIs REST
 
-✅ Banco de Dados SQL
++ Banco de Dados SQL
 
 ---
 
