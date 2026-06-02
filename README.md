@@ -144,3 +144,6 @@
 <p align="center">
    Obrigado por visitar meu perfil!
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrenoNIN/BrenoNIN/output/github-contribution-grid-snake-dark.svg" />
+</p>
