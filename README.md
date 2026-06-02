@@ -1,7 +1,7 @@
 # Olá, eu sou Breno Cardoso
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;QA+%7C+Quality+Assurance;Desenvolvedor+Back-end+Java;Automa%C3%A7%C3%A3o+de+Testes+com+Selenium+e+Cucumber;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;QA+%7C+Quality+Assurance;Desenvolvedor+Back-end+Java;Automa%C3%A7%C3%A3o+de+Testes+com+Selenium+e+Cucumber;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
 </p>
 
 ---
