@@ -82,7 +82,9 @@
 ---
 
 ## Estatísticas GitHub
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrenoNIN&color=blueviolet&style=for-the-badge" />
+</p>
 <p align="center">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoNIN&show_icons=true&theme=tokyonight"/>
 
@@ -141,8 +143,4 @@
 
 <p align="center">
    Obrigado por visitar meu perfil!
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrenoNIN/BrenoNIN/output/github-contribution-grid-snake-dark.svg" />
 </p>
