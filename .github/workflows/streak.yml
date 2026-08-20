@@ -12,7 +12,7 @@ jobs:
       - name: Generate streak stats image
         uses: DenverCoder1/github-readme-streak-stats@master
         with:
-          user_id: SEU_USER_ID_AQUI
+          user_id: 178575565
           theme: tokyonightname: Generate Streak Stats
 
 on:
