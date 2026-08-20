@@ -86,9 +86,9 @@
   <img src="https://komarev.com/ghpvc/?username=BrenoNIN&color=blueviolet&style=for-the-badge" />
 </p>
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoNIN&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eosin-ten-66.vercel.app/api?username=BrenoNIN&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoNIN&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eosin-ten-66.vercel.app/api/top-langs/?username=BrenoNIN&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
