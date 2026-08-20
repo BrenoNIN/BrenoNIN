@@ -13,19 +13,4 @@ jobs:
         uses: DenverCoder1/github-readme-streak-stats@master
         with:
           user_id: 178575565
-          theme: tokyonightname: Generate Streak Stats
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  streak:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate streak stats image
-        uses: DenverCoder1/github-readme-streak-stats@master
-        with:
-          user_id: 178575565
           theme: tokyonight
